@@ -1,3 +1,5 @@
+To create skeleton project structure:
+cdk init --language python app
 
 # Welcome to your CDK Python project!
 
